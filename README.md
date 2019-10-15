@@ -1,4 +1,4 @@
-# WorlShooter
+# WorldShooter
 
 En este proyecto se utilizan conceptos de Interaccion Humano Computador(IHC),la  idea  general  trata  de  contruir  un  videojuego  utilizando  Realidad  Virtual,  con  laayuda  de  un  Google  Cardboard,  un  telefono  Smarhphone  y  unity  como  motor  dedesarrollo.
 
